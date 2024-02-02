@@ -1,0 +1,7 @@
+{
+  "name": "hito1_2ºTri",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
